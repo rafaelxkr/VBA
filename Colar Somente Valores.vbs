@@ -1,6 +1,5 @@
-Essa função faz com seja possivel somente colar em valores
+'Essa função faz com seja possivel somente colar em valores
 
-``` vbs
 Option Explicit
 
  Private Sub Worksheet_Change(ByVal Target As Range)
@@ -41,4 +40,3 @@ Whoa:
     Resume LetsContinue
 End Sub
 
-```
