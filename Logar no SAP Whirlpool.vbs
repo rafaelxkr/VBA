@@ -9,6 +9,7 @@ Function logarSAP() As Boolean
     '    WScript.Sleep 100
     'Loop
    ' Sleep 15000
+   
 '-------------------Aguarda 15 segundos---------------
 newHour = Hour(Now())
 newMinute = Minute(Now())
